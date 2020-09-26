@@ -1,1 +1,4 @@
-# WDGD-303-WNA-exercise-1
+# WDGD-303-WNA Exercise 1
+
+# Pre-requisites:
+- Execute `npm install` in the terminal
